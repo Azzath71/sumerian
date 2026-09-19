@@ -1,0 +1,12 @@
+name = "sumerian"
+description = "Replica of the sumerian game"
+version = "0.1.0-dev"
+
+authors = ["Adalith"]
+maintainers = ["Adalith <adalithprojects@outlook.com>"]
+maintainers-logins = ["azzath71"]
+licenses = "GPL-3.0-or-later"
+website = ""
+tags = ["game", "videogame", "history", "sumerian"]
+
+executables = ["sumerian"]
