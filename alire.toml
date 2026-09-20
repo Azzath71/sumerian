@@ -1,12 +1,12 @@
 name = "sumerian"
 description = "Replica of the sumerian game"
-version = "0.1.0-dev"
+version = "0.1.0"
 
 authors = ["Adalith"]
 maintainers = ["Adalith <adalithprojects@outlook.com>"]
 maintainers-logins = ["azzath71"]
 licenses = "GPL-3.0-or-later"
-website = ""
+website = "https://github.com/Azzath71/sumerian"
 tags = ["game", "videogame", "history", "sumerian"]
 
 executables = ["sumerian"]
